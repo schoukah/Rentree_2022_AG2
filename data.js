@@ -116,6 +116,12 @@ var APP_DATA = {
           "pitch": 0.23231801957074438,
           "rotation": 0,
           "target": "3-agora2_chaises_g_074"
+        },
+        {
+          "yaw": 1.7959093310919085,
+          "pitch": 0.2918257801915338,
+          "rotation": 0,
+          "target": "1-agora2_lutrin_072"
         }
       ],
       "infoHotspots": []
@@ -154,6 +160,12 @@ var APP_DATA = {
           "pitch": -0.15611506870207492,
           "rotation": 0,
           "target": "4-ag2_haut_g_075"
+        },
+        {
+          "yaw": -0.2737801713941863,
+          "pitch": 0.20730859966040072,
+          "rotation": 0,
+          "target": "2-agora2_gauche_071"
         }
       ],
       "infoHotspots": [
@@ -161,7 +173,7 @@ var APP_DATA = {
           "yaw": -2.109362609661641,
           "pitch": 0.19556528256429218,
           "title": "Indice!",
-          "text": "Lire un livre, ce n'est pas sortir du monde, mais c'est entrer dans le monde à travers une autre entrée. (<a href=\"https://www.google.com\">Fabrizio Caramagna</a>)<br>"
+          "text": "Lire un livre, ce n'est pas sortir du monde, mais c'est entrer dans le monde à travers une autre entrée. (Fabrizio Caramagna)<br>"
         }
       ]
     },
@@ -203,15 +215,15 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -1.637718592705669,
-          "pitch": 0.26123131217941165,
+          "yaw": -1.6377186688805203,
+          "pitch": 0.2612313268818749,
           "title": "Indice!",
-          "text": "Chacune de nos lectures laisse une graine qui germe. (<a href=\"https://www.google.com\">Jules Renard</a>)"
+          "text": "Chacune de nos lectures laisse une graine qui germe. (Jules Renard)<br>"
         }
       ]
     }
   ],
-  "name": "AG2",
+  "name": "AG2_2022-08-07_2016",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
