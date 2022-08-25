@@ -85,7 +85,7 @@ var APP_DATA = {
           "yaw": 1.3095246418801771,
           "pitch": 0.7307003954577453,
           "title": "Indice!",
-          "text": "Lire un livre, ce n'est pas sortir du monde, mais c'est entrer dans le monde à travers une autre entrée. (Fabrizio Caramagna)<br>"
+          "text": "Lire un livre, ce n'est pas sortir du monde, mais c'est entrer dans le monde à travers une autre entrée. (<a href=\"https://rentree-2022-bib.netlify.app/\">Fabrizio Caramagna</a>)<br>"
         }
       ]
     },
@@ -136,7 +136,7 @@ var APP_DATA = {
           "yaw": 1.6843747654871688,
           "pitch": 0.254192804587106,
           "title": "Indice!",
-          "text": "Chacune de nos lectures laisse une graine qui germe. (Jules Renard)<br>"
+          "text": "Chacune de nos lectures laisse une graine qui germe. (<a href=\"https://rentree-2022-bib.netlify.app/\">Jules Renard</a>)<br>"
         }
       ]
     }
