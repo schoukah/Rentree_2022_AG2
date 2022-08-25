@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-agora2_entree_080",
-      "name": "agora2_entree_080",
+      "id": "0-ag1_entree_097",
+      "name": "AG1_entree_097",
       "levels": [
         {
           "tileSize": 256,
@@ -24,23 +24,23 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 3.1083508750650477,
-        "pitch": -0.012731455318377272,
-        "fov": 1.3785535375643068
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 2.9147672398760296,
-          "pitch": 0.09505324825272332,
-          "rotation": 12.566370614359176,
-          "target": "1-agora2_lutrin_072"
+          "yaw": 0.024044199527288868,
+          "pitch": 0.08669077338916154,
+          "rotation": 0,
+          "target": "1-ag1_milieu_098"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-agora2_lutrin_072",
-      "name": "Agora2_lutrin_072",
+      "id": "1-ag1_milieu_098",
+      "name": "AG1_milieu_098",
       "levels": [
         {
           "tileSize": 256,
@@ -62,124 +62,36 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -0.6009480835095324,
-        "pitch": -0.020951455418112275,
-        "fov": 1.3573407103127428
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 1.2732982419659304,
-          "pitch": 0.05406840319206552,
+          "yaw": 2.5511436997834505,
+          "pitch": 0.3268536386810563,
           "rotation": 0,
-          "target": "0-agora2_entree_080"
+          "target": "0-ag1_entree_097"
         },
         {
-          "yaw": -1.5601919251610727,
-          "pitch": 0.2168743778174651,
+          "yaw": -0.06961505452099637,
+          "pitch": 0.466981782182069,
           "rotation": 0,
-          "target": "2-agora2_gauche_071"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "2-agora2_gauche_071",
-      "name": "Agora2_gauche_071",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 1520,
-      "initialViewParameters": {
-        "yaw": 0.31584829366736145,
-        "pitch": -0.011682657098006644,
-        "fov": 1.3785535375643068
-      },
-      "linkHotspots": [
-        {
-          "yaw": -0.17917717547294565,
-          "pitch": 0.23231801957074438,
-          "rotation": 0,
-          "target": "3-agora2_chaises_g_074"
-        },
-        {
-          "yaw": 1.7959093310919085,
-          "pitch": 0.2918257801915338,
-          "rotation": 0,
-          "target": "1-agora2_lutrin_072"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "3-agora2_chaises_g_074",
-      "name": "agora2_chaises_G_074",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 1520,
-      "initialViewParameters": {
-        "yaw": 1.771302114505536,
-        "pitch": 0.06663241143979448,
-        "fov": 1.3785535375643068
-      },
-      "linkHotspots": [
-        {
-          "yaw": 2.9072058487270196,
-          "pitch": -0.15611506870207492,
-          "rotation": 0,
-          "target": "4-ag2_haut_g_075"
-        },
-        {
-          "yaw": -0.2737801713941863,
-          "pitch": 0.20730859966040072,
-          "rotation": 0,
-          "target": "2-agora2_gauche_071"
+          "target": "2-ag1_devant_099"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -2.109362609661641,
-          "pitch": 0.19556528256429218,
+          "yaw": 1.3095246418801771,
+          "pitch": 0.7307003954577453,
           "title": "Indice!",
           "text": "Lire un livre, ce n'est pas sortir du monde, mais c'est entrer dans le monde à travers une autre entrée. (Fabrizio Caramagna)<br>"
         }
       ]
     },
     {
-      "id": "4-ag2_haut_g_075",
-      "name": "Ag2_haut_G_075",
+      "id": "2-ag1_devant_099",
+      "name": "AG1_devant_099",
       "levels": [
         {
           "tileSize": 256,
@@ -201,33 +113,39 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -0.11097027192057851,
-        "pitch": 0.49501297037271463,
-        "fov": 1.377517843313523
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": -0.07029302771145929,
-          "pitch": 0.45183593820682866,
-          "rotation": 6.283185307179586,
-          "target": "3-agora2_chaises_g_074"
+          "yaw": 3.961297068144631e-9,
+          "pitch": 0.13552340237882277,
+          "rotation": 0,
+          "target": "1-ag1_milieu_098"
+        },
+        {
+          "yaw": -0.25269279754397367,
+          "pitch": 0.04771888473253583,
+          "rotation": 0,
+          "target": "0-ag1_entree_097"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -1.6377186688805203,
-          "pitch": 0.2612313268818749,
+          "yaw": 1.6843747654871688,
+          "pitch": 0.254192804587106,
           "title": "Indice!",
           "text": "Chacune de nos lectures laisse une graine qui germe. (Jules Renard)<br>"
         }
       ]
     }
   ],
-  "name": "AG2_2022-08-07_2016",
+  "name": "AG1_D",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": true,
+    "fullscreenButton": false,
     "viewControlButtons": false
   }
 };
