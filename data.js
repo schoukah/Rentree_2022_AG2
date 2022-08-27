@@ -93,6 +93,12 @@ var APP_DATA = {
           "pitch": 0.7307003954577453,
           "title": "Indice!",
           "text": "Lire un livre, ce n'est pas sortir du monde, mais c'est entrer dans le monde à travers une autre entrée. (<a href=\"https://rentree-2022-bib.netlify.app/\">Fabrizio Caramagna</a>)<br>"
+        },
+        {
+          "yaw": -2.190566781731482,
+          "pitch": 0.5627249573785278,
+          "title": "Indice!",
+          "text": "😝"
         }
       ]
     },
