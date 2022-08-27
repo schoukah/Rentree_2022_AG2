@@ -39,7 +39,7 @@ var APP_DATA = {
       "infoHotspots": [
         {
         "yaw": 1.3095246418801771,
-        "pitch": 0.7307003954577453,
+        "pitch": 1.7307003954577453,
         "title": "Indice!",
         "text": "😝"
       }
