@@ -36,7 +36,14 @@ var APP_DATA = {
           "target": "1-ag1_milieu_098"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+        "yaw": 1.3095246418801771,
+        "pitch": 0.7307003954577453,
+        "title": "Indice!",
+        "text": "😝"
+      }
+    ]
     },
     {
       "id": "1-ag1_milieu_098",
