@@ -40,8 +40,8 @@ var APP_DATA = {
         {
         "yaw": 1.3095246418801771,
         "pitch": -2.7307003954577453,
-        "title": "Indice!",
-        "text": "😝"
+        "title": "Indice? Non! C'est un leurre! 😝",
+        "text": "<iframe src=\"https://giphy.com/embed/VFZDuY0nePXry\" width=\"150\" height=\"310\" frameBorder=\"0\" class=\"giphy-embed\"></iframe>"
       }
     ]
     },
@@ -97,8 +97,8 @@ var APP_DATA = {
         {
           "yaw": -2.190566781731482,
           "pitch": 0.5627249573785278,
-          "title": "Indice!",
-          "text": "😝"
+          "title": "Indice? Non! C'est un leurre! 😝",
+          "text": "<iframe src=\"https://giphy.com/embed/l4pTr4ZZRaDpcOqfC\" width=\"310\" height=\"100\" frameBorder=\"0\" class=\"giphy-embed\" allowFullScreen></iframe>"
         }
       ]
     },
